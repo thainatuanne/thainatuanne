@@ -23,7 +23,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thainatuanne&show_icons=true&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&bg_color=282a36&cache_seconds=2300" alt="ilustração do status do github">
 </div>
 
-<hr/>
+<br>
+
+<div align="center"> 
+  <a href = "mailto:thainadiva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaina-tuanne-borges-da-silva-7928362a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center"> 
 <h1>
