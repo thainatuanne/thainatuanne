@@ -1,10 +1,14 @@
-<h3>Olá, meu nome é Thainá Tuanne 👋</h3>
+<div align="center"> 
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=bd93f9&vCenter=true&width=500&height=70&duration=2300&lines=Olá!+👋;+Sou+a+Thainá+Tuanne!;"/>
+  </h1>
+</div>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://img.shields.io/static/v1?label=Overview&message=ThainaTuanne&color=bd93f9&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
 
-<div style="text-align: center; margin-bottom: 20px;">
+<div>
   <p>
     ❤️ <strong>Hobbies:</strong> pilates, caminhar, estudar, séries, família, viajar... <br/>
     🎓 <strong>Formação:</strong> Licenciatura em História e Pedágogia. Pós-graduada em Teologia, Ensino da Geografia e História Afro-brasileira. Cursando Desenvolvimento Web FullStack, na Growdev.<br/>
@@ -21,7 +25,9 @@
 
 <hr/>
 
-<h1 align="center">
+<div align="center"> 
+<h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=bd93f9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigada+pela+atenção!;" />
 </h1>
+</div>
 
