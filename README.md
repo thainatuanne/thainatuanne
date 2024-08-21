@@ -15,7 +15,7 @@
     📖 <strong>Cursos Concluidos:</strong> Tecnologia da Informação, Senac. <br/> 
     💡 <strong>Experiência Profissional:</strong> Secretária, Professora dos Anos Finais do Ensino Fundamental e Professora de Educação Infantil.<br/>
     💻 <strong>Linguagem de Programação favorita:</strong> HTML, CSS, JavaScript. <br/>
-    📚 <strong>Estudando:</strong> HTML.
+    📚 <strong>Estudando:</strong> HTML, CSS e JavaScript.
   </p>
 </div>
 
