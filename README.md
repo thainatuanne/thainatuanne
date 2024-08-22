@@ -10,7 +10,7 @@
 
 <div>
   <p>
-    ❤️ <strong>Hobbies:</strong> pilates, caminhar, estudar, séries, família, viajar... <br/>
+    ❤️ <strong>Hobbies:</strong> pilates, caminhar, estudar, séries, família, viajar, ler... <br/>
     🎓 <strong>Formação:</strong> Licenciatura em História e Pedágogia. Pós-graduada em Teologia, Ensino da Geografia e História Afro-brasileira. <em>Em andamento:</em> Desenvolvimento Web FullStack, na Growdev.  <br/> 
     📖 <strong>Cursos Concluidos:</strong> Tecnologia da Informação, Senac. <br/> 
     💡 <strong>Experiência Profissional:</strong> Secretária, Professora dos Anos Finais do Ensino Fundamental e Professora de Educação Infantil.<br/>
