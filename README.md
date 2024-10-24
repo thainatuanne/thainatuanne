@@ -14,7 +14,7 @@
     🎓 <strong>Formação:</strong> Licenciatura em História e Pedágogia. Pós-graduada em Teologia, Ensino da Geografia e História Afro-brasileira. <em>Em andamento:</em> Desenvolvimento Web FullStack, na Growdev. Tecnologia da Informação, Programa RS/TI - BackEnd - Senac. <br/> 
     📖 <strong>Cursos Concluidos:</strong> Tecnologia da Informação, Programa RS/TI - FrontEnd - Senac. <br/> 
     💡 <strong>Experiência Profissional:</strong> Secretária, Professora dos Anos Finais do Ensino Fundamental e Professora de Educação Infantil.<br/>
-    💻 <strong>Linguagem de Programação favorita:</strong> HTML, CSS, JavaScript. <br/>
+    💻 <strong>Linguagem de Programação favorita:</strong> JavaScript. <br/>
     📚 <strong>Estudando:</strong> Node.js
   </p>
 </div>
