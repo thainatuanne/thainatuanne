@@ -11,11 +11,11 @@
 <div>
   <p>
     ❤️ <strong>Hobbies:</strong> pilates, caminhar, estudar, séries, família, viajar, ler... <br/>
-    🎓 <strong>Formação:</strong> Licenciatura em História e Pedágogia. Pós-graduada em Teologia, Ensino da Geografia e História Afro-brasileira. <em>Em andamento:</em> Desenvolvimento Web FullStack, na Growdev. Tecnologia da Informação, Programa RS/TI - BackEnd - Senac. <br/> 
+    🎓 <strong>Formação:</strong> Licenciatura em História e Pedágogia. Pós-graduada em Teologia, Ensino da Geografia e História Afro-brasileira. <br/> <em>Em andamento:</em> Desenvolvimento Web FullStack, na Growdev. Tecnologia em Sistemas para Internet - IFSUL <br/> 
     📖 <strong>Cursos Concluidos:</strong> Tecnologia da Informação, Programa RS/TI - FrontEnd - Senac. <br/> 
     💡 <strong>Experiência Profissional:</strong> Secretária, Professora dos Anos Finais do Ensino Fundamental e Professora de Educação Infantil.<br/>
     💻 <strong>Linguagem de Programação favorita:</strong> JavaScript. <br/>
-    📚 <strong>Estudando:</strong> Node.js
+    📚 <strong>Estudando:</strong> React.
   </p>
 </div>
 
